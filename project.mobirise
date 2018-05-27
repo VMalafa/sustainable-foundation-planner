@@ -705,8 +705,8 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@THEME_PATH@/components/_images/carousel/1.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": false,
@@ -723,7 +723,7 @@
               },
               {
                 "image": "@THEME_PATH@/components/_images/carousel/2.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -739,7 +739,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Learn More</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-globe mbr-iconfont mbr-iconfont-btn\"></span>Members Login</a>"
               },
               {
-                "image": "@THEME_PATH@/components/_images/carousel/3.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1630x1080.jpg",
                 "active": false,
                 "showButtons": true,
                 "showText": true,
@@ -749,11 +749,11 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "IMAGE SLIDE",
+                "title": "What's Next?<br>",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "text": "We're here to help. &nbsp;<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Making IT Do</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">What IT Do</a>"
               }
             ]
           }
