@@ -1599,6 +1599,10 @@ body {
 .cid-qTdAyzitev .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-qTdAyzitev .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-qTdAyzitev .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-qTdAyzitev .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-qTdAyzitev .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -1692,6 +1696,10 @@ body {
   .cid-qTdAyzitev .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-qTdAyzitev .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-qTdAyzitev .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-qTdAyzitev .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-qTdAyzitev .navbar-collapse.collapsing .navbar-buttons,
   .cid-qTdAyzitev .navbar-collapse.show .navbar-buttons {
