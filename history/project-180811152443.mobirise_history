@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Current MFR Site",
+    "name": "My Site",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -36,9 +36,7 @@
     "uniqCompNum": 67,
     "versionPublish": "4.7.7",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png",
-    "favicon": "",
-    "noImageResize": ""
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
